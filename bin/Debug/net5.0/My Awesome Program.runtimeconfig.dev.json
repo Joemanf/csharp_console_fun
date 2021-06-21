@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\joema\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\joema\\.nuget\\packages"
+    ]
+  }
+}
